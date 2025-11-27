@@ -1,5 +1,5 @@
 # Burden_of_Mental_Illness
-## weltweite Entwicklung psychischer Erkrankungen zwischen 1990 und 2021
+## Weltweite Entwicklung Psychischer Erkrankungen zwischen 1990 und 2021
 
 ### Gruppe:
 - Lercara Sofia (lercasof@students.zhaw.ch)
@@ -7,7 +7,7 @@
 - Tresch Carolina (tresccar@students.zhaw.ch)
 
 ### Projektidee:
-Mit diesem Leistungsnachweis möchten wir gerne der Frage nachgehen, wie sich die globale Krankheitslast psychischer Erkrankungen zwischen 1990 und 2021 entwickelt hat. Zudem möchten wir untersuchen, ob es unterschiede zwischen high-income, middle-income und low-income Ländern gibt. In den verwendeten Datensätzen wird DALY (Disability-Adjusted Life Years) als Mass der Last einer psychischen Krankheit verwendet. Ein DALY entspricht einem verlorenen Jahr eines gesunden Lebens.
+Mit diesem Leistungsnachweis möchten wir der Frage nachgehen, wie sich die globale Krankheitslast psychischer Erkrankungen zwischen 1990 und 2021 entwickelt hat. Zudem möchten wir untersuchen, ob es Unterschiede zwischen high-income, middle-income und low-income Ländern gibt. In den verwendeten Datensätzen wird DALY (Disability-Adjusted Life Years) als Mass der Last einer psychischen Krankheit verwendet. Ein DALY entspricht einem verlorenen Jahr eines gesunden Lebens.
 
 
 ### Fragestellungen:
