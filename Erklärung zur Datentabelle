@@ -1,0 +1,65 @@
+Diese Tabelle beschreibt die Weltweite Belastung durch psychische Erkrankungen zwischen 1990 und 2021. 
+measure_id / measure_name : Beschreibt, was gemessen wird.
+measure_id : Das ist eine technische Kennnummer für die Art der Messung. In diesem Datensatz ist der Wert überall 2.
+Das bedeutet: → Alle Werte messen DALYs. ( DALYs) : measure_name
+DALYs (Disability-Adjusted Life Years)
+→ verlorene gesunde Lebensjahre durch eine Krankheit.
+Beispiel:
+Wenn eine Person durch Krankheit früher stirbt oder lange krank ist, entstehen DALYs.
+
+location_id /location_name: beschreibt den Ort, auf den sich die Daten beziehen. 
+location_id: Interne Nummer für den Ort (nur für Datenbank-Zwecke)
+location_name: Name des Ortes, auf den sich die Daten beziehen. 
+*In diesem Datensatz steht überall: Global → Das bedeutet: Die Werte sind weltweite Durchschnittswerte und keine einzelnen Länder.
+
+sex_id / sex_name: Beschreibt das Geschlecht.
+sex_id: Interne Kennnummer für das Geschlecht (1: männlich, 2: weiblich, 3: beide)
+sex_name: Name der Geschlechtsgruppe.
+In diesem Datensatz steht überall: 3 und Both → Männer und Frauen zusammen.
+
+age_id / age_name: Beschreibt die Altersgruppe.
+age_id: Interne Nummer der Altersgruppe.
+age_name: Name der Altersgruppe.
+In diesem Datensatz steht: 22 = All ages → Alle Altersgruppen zusammen (Kinder, Jugendliche, Erwachsene, Alte). Es gibt keine Trennung nach Altersklassen.
+
+cause_id / cause_name: Beschreibt die Art der psychischen Erkrankung.
+cause_id:Interne Nummer der Erkrankung.
+cause_name: Name der Erkrankung, z. B.:
+ • Depression
+ • Anxiety disorders (Angststörungen)
+ • Schizophrenia
+ • Eating disorders (Essstörungen)
+ • Autism spectrum disorders
+ • ADHD
+ • Bipolar disorder
+Diese Spalte zeigt, um welche Krankheit es in jeder Zeile geht.
+
+metric_id / metric_name: Diese Spalte erklärt, wie gemessen wird.
+metric_id: Interne Nummer der Messmethode.
+metric_name: Es gibt drei Varianten:
+ • Number → Absolute Anzahl betroffener Menschen
+ • Percent → Anteil in Prozent
+ • Rate → Rate pro Bevölkerungseinheit
+Darum kommt jede Krankheit mehrmals vor:
+ • einmal als Anzahl
+ • einmal als Prozent
+ • einmal als Rate
+
+year: Das Jahr der Erhebung.
+Die Daten gehen von: 1990 bis 2021  "So kann man die Entwicklung über Zeit analysieren"
+
+val: Der eigentliche Messwert.
+Je nach metric_name bedeutet val:
+ • Bei Number → Anzahl Menschen
+ • Bei Percent → Prozentanteil
+ • Bei Rate → Erkrankungsrate pro Bevölkerung
+
+
+lower / upper :Untergrenze und Obergrenze der Schätzung.
+
+Statistische Daten sind nicht exakt, deshalb wird immer ein Bereich angegeben.
+ • lower → niedrigster möglicher Wert
+ • upper → höchster möglicher Wert
+
+Der echte Wert liegt wahrscheinlich dazwischen.
+
