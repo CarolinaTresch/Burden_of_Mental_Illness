@@ -19,4 +19,6 @@ Mit diesem Leistungsnachweis möchten wir gerne der Frage nachgehen, wie sich di
 
 Quellen:
 - https://ourworldindata.org/grapher/burden-disease-from-each-mental-illness
-- 
+- https://ourworldindata.org/burden-of-disease#the-burden-from-non-communicable-diseases-by-sub-category
+- https://vizhub.healthdata.org/gbd-results/
+
