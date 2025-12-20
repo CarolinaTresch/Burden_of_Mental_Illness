@@ -19,6 +19,8 @@ Mit diesem Leistungsnachweis möchten wir gerne der Frage nachgehen, wie sich di
 - Wie unterscheiden sich die DALY-Raten psychischer Erkrankungen zwischen Männern und Frauen insgesamt, und wie variieren diese  Unterschiede zwischen verschiedenen Weltregionen?
 
 - Welche psychischen Erkrankungen tragen in unterschiedlichen Weltregionen am stärksten zur Krankheitslast bei, und wie unterscheiden sich Angst- und Depressionsstörungen regional?
+
+- Wie variieren Geschlechterunterschiede im Sprech-Unbehagen über psychische Gesundheit zwischen Einkommensgruppen und Weltregionen, und welche Rolle spielen dabei Einkommen und Kultur?
  
 
 
@@ -39,5 +41,13 @@ Quellen:
 - https://thriveworks.com/blog/women-admit-they-need-help/
 
 - https://www.who.int/publications/i/item/depression-global-health-estimates
+
+- https://ourworldindata.org/grapher/discomfort-speaking-anxiety-depression-by-gender
+
+- https://www.sciencedirect.com/org/science/article/pii/S1462373022000396
+
+- https://myhixel.com/blogs/sexuality-and-wellbeing/mental-health-in-men-vs-women-the-differences-we-need-to-understand
+
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8806009/
 
 
