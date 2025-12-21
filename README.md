@@ -1,5 +1,5 @@
 # Burden_of_Mental_Illness
-## weltweite Entwicklung psychischer Erkrankungen zwischen 1990 und 2021
+## Psychische Erkrankungen im Wandel: 1990-2021 
 
 ### Gruppe:
 - Lercara Sofia (lercasof@students.zhaw.ch)
@@ -7,7 +7,10 @@
 - Tresch Carolina (tresccar@students.zhaw.ch)
 
 ### Projektidee:
-Mit diesem Leistungsnachweis möchten wir gerne der Frage nachgehen, wie sich die globale Krankheitslast psychischer Erkrankungen zwischen 1990 und 2021 entwickelt hat. Zudem möchten wir untersuchen, ob es unterschiede zwischen high-income, middle-income und low-income Ländern gibt. In den verwendeten Datensätzen wird DALY (Disability-Adjusted Life Years) als Mass der Last einer psychischen Krankheit verwendet. Ein DALY entspricht einem verlorenen Jahr eines gesunden Lebens.
+
+In diesem Projekt analysieren wir die globale Krankheitslast psychischer Erkrankungen von 1990 bis 2021 anhand von DALYs (Disability-Adjusted Life Years, ein DALY entspricht einem verlorenen Jahr eines gesunden Lebens). Dabei vergleichen wir die Entwicklung der DALY-Werte zwischen verschiedenen Weltregionen sowie Unterschiede zwischen Männern und Frauen, sowohl insgesamt als auch innerhalb einzelner Regionen.
+
+Ergänzend wird ein zweiter Datensatz zum Sprech-Unbehagen verwendet, um geschlechtsspezifische Unterschiede in verschiedenen Ländern und Weltregionen zu untersuchen.
 
 
 ### Fragestellungen:
@@ -20,7 +23,7 @@ Mit diesem Leistungsnachweis möchten wir gerne der Frage nachgehen, wie sich di
 
 - Welche psychischen Erkrankungen tragen in unterschiedlichen Weltregionen am stärksten zur Krankheitslast bei, und wie unterscheiden sich Angst- und Depressionsstörungen regional?
 
-- Wie variieren Geschlechterunterschiede im Sprech-Unbehagen über psychische Gesundheit zwischen Einkommensgruppen und Weltregionen, und welche Rolle spielen dabei Einkommen und Kultur?
+- Wie variieren Geschlechterunterschiede im Sprech-Unbehagen über psychische Gesundheit zwischen Länder und Weltregionen, und welche Rolle spielen dabei Einkommen und Kultur?
  
 
 
